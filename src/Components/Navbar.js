@@ -10,6 +10,7 @@ const Navbar = () => {
                 <a href="/agents">AGENTS</a>
                 <a href="/agents">ERSF</a>
                 <a href="/events">EVENT</a>
+                <a href="/support">SUPPORT</a>
             </div>
         </nav>
     );
